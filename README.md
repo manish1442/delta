@@ -1,2 +1,2 @@
 # delta
-delta is an github intial contributor
+delta is an github intial contributor.
